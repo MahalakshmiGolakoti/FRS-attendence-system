@@ -2,4 +2,4 @@
 
 
 
-![Face Recognition Based Attendance System](ss.png)
+![Face Recognition Based Attendance System](snapshot.png)
